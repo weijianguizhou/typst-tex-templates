@@ -33,7 +33,7 @@ cd Typst/01-学术论文/charged-ieee
 typst compile --root . template/main.typ 我的论文.pdf
 
 # LaTeX
-cd TeX/学术论文与报告
+cd TeX/01-学术论文与报告
 latexmk -xelatex 学术论文模板.tex
 ```
 
@@ -56,14 +56,14 @@ Typst 首次编译会自动从 Typst Universe 下载 `@preview/...` 依赖，需
 
 | 你要做 | 推荐去处 | 编译方式 |
 |---|---|---|
-| 中文毕业论文 / 课程论文 | [`Typst/02-学位论文/`](Typst/02-学位论文/README.md) 或 [`TeX/学术论文与报告/`](TeX/学术论文与报告/学术论文模板.tex) | `typst compile` / `xelatex` |
+| 中文毕业论文 / 课程论文 | [`Typst/02-学位论文/`](Typst/02-学位论文/README.md) 或 [`TeX/01-学术论文与报告/`](TeX/01-学术论文与报告/学术论文模板.tex) | `typst compile` / `xelatex` |
 | 英文期刊、会议投稿 | [`Typst/01-学术论文/`](Typst/01-学术论文/README.md) | `typst compile` |
-| 课程笔记、讲义 | [`Typst/03-课程笔记/`](Typst/03-课程笔记/README.md) 或 [`TeX/课程笔记/`](TeX/课程笔记/README.md) | 两者均可 |
-| 组会 / 答辩幻灯片 | [`Typst/04-幻灯片/`](Typst/04-幻灯片/README.md) 或 [`TeX/PPT演示/`](TeX/PPT演示/) | `typst compile` / `xelatex` |
-| 简历 | [`Typst/05-简历CV/`](Typst/05-简历CV/README.md) 或 [`TeX/简历CV/`](TeX/简历CV/简历模板.tex) | 两者均可 |
+| 课程笔记、讲义 | [`Typst/03-课程笔记/`](Typst/03-课程笔记/README.md) 或 [`TeX/05-课程笔记/`](TeX/05-课程笔记/README.md) | 两者均可 |
+| 组会 / 答辩幻灯片 | [`Typst/04-幻灯片/`](Typst/04-幻灯片/README.md) 或 [`TeX/06-PPT演示/`](TeX/06-PPT演示/) | `typst compile` / `xelatex` |
+| 简历 | [`Typst/05-简历CV/`](Typst/05-简历CV/README.md) 或 [`TeX/02-简历CV/`](TeX/02-简历CV/简历模板.tex) | 两者均可 |
 | 学术海报 | [`Typst/06-海报/`](Typst/06-海报/README.md) | `typst compile` |
 | 书稿 / 长讲义 | [`Typst/07-书籍与长文/`](Typst/07-书籍与长文/README.md) | `typst compile` |
-| 公文、书信、邮件 | [`Typst/08-公文与书信/`](Typst/08-公文与书信/README.md) 或 [`TeX/公文与书信/`](TeX/公文与书信/) | 两者均可 |
+| 公文、书信、邮件 | [`Typst/08-公文与书信/`](Typst/08-公文与书信/README.md) 或 [`TeX/03-公文与书信/`](TeX/03-公文与书信/) | 两者均可 |
 | 试卷、作业、实验报告 | [`Typst/09-试卷作业与报告/`](Typst/09-试卷作业与报告/README.md) | `typst compile` |
 
 ## 预览
@@ -114,18 +114,20 @@ Typst 首次编译会自动从 Typst Universe 下载 `@preview/...` 依赖，需
 | [公文与书信](Typst/08-公文与书信/README.md) | 4 | GB/T 9704 公文、DIN 5008 信函、letterloom、学术信函 |
 | [试卷作业与报告](Typst/09-试卷作业与报告/README.md) | 8 | 考试卷、作业题、实验报告、国赛数学建模 |
 
-## TeX：6 类 40 个 `.tex`
+## TeX：6 类 11 个入口，全部实测可编译
 
 - 总入口：[`TeX/README.md`](TeX/README.md)
-- [PPT演示](TeX/PPT演示/)：南理工 Beamer、钱学森学院 Beamer、PKU 极简 Beamer
-- [学术论文与报告](TeX/学术论文与报告/学术论文模板.tex)：论文骨架（摘要 / 数学 / 图表 / 引用 / 附录）
-- [简历CV](TeX/简历CV/简历模板.tex)：单页紧凑简历
-- [公文与书信](TeX/公文与书信/)：正式公文 + 中文书信
-- [演讲稿](TeX/演讲稿/演讲稿模板.tex)：LaTeX 讲稿 + Markdown 快速版
-- [课程笔记](TeX/课程笔记/README.md)：极简笔记 + `textbook.cls` 分栏笔记，附 11 张封面模板
+- [01-学术论文与报告](TeX/01-学术论文与报告/)：论文骨架（摘要 / 数学 / 图表 / 引用 / 附录）
+- [02-简历CV](TeX/02-简历CV/)：单页紧凑简历
+- [03-公文与书信](TeX/03-公文与书信/)：正式公文 + 中文书信
+- [04-演讲稿](TeX/04-演讲稿/)：LaTeX 讲稿 + Markdown 快速版
+- [05-课程笔记](TeX/05-课程笔记/README.md)：李思风极简笔记（12 款封面）+ `textbook.cls` 分栏讲义
+- [06-PPT演示](TeX/06-PPT演示/)：南理工 Beamer、钱学森学院 Beamer、PKU 极简 Beamer
+
+每个模板目录都有 `模板信息.md`（入口 / 编译命令 / 字体依赖）与 `_预览/`（PDF + 首页 PNG）。
 
 ```powershell
-cd TeX/学术论文与报告
+cd TeX/01-学术论文与报告
 latexmk -xelatex 学术论文模板.tex
 ```
 
@@ -136,12 +138,12 @@ typst-tex-templates/
 ├── README.md                 # 本页
 ├── TeX/                      # 只放 LaTeX / TeX
 │   ├── README.md
-│   ├── PPT演示/
-│   ├── 学术论文与报告/
-│   ├── 简历CV/
-│   ├── 公文与书信/
-│   ├── 演讲稿/
-│   └── 课程笔记/
+│   ├── 01-学术论文与报告/
+│   ├── 02-简历CV/
+│   ├── 03-公文与书信/
+│   ├── 04-演讲稿/
+│   ├── 05-课程笔记/          # 李思风极简笔记/ + textbook分栏讲义/
+│   └── 06-PPT演示/           # NJUST南理工/ + 钱学森学院/ + PKU极简/
 ├── Typst/                    # 只放 Typst
 │   ├── README.md
 │   ├── 01-学术论文/ … 09-试卷作业与报告/
