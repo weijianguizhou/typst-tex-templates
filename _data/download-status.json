@@ -1,0 +1,563 @@
+[
+  {
+    "name": "charged-ieee",
+    "category": "学术论文",
+    "version": "0.1.4",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\01-学术论文\\charged-ieee"
+  },
+  {
+    "name": "faithful-acmart",
+    "category": "学术论文",
+    "version": "0.2.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\01-学术论文\\faithful-acmart"
+  },
+  {
+    "name": "fine-lncs",
+    "category": "学术论文",
+    "version": "0.6.5",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\01-学术论文\\fine-lncs"
+  },
+  {
+    "name": "elsevier-replica",
+    "category": "学术论文",
+    "version": "0.1.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\01-学术论文\\elsevier-replica"
+  },
+  {
+    "name": "stellar-springer-nature",
+    "category": "学术论文",
+    "version": "0.1.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\01-学术论文\\stellar-springer-nature"
+  },
+  {
+    "name": "blind-cvpr",
+    "category": "学术论文",
+    "version": "0.7.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\01-学术论文\\blind-cvpr"
+  },
+  {
+    "name": "bloated-neurips",
+    "category": "学术论文",
+    "version": "0.8.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\01-学术论文\\bloated-neurips"
+  },
+  {
+    "name": "lucky-icml",
+    "category": "学术论文",
+    "version": "0.7.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\01-学术论文\\lucky-icml"
+  },
+  {
+    "name": "tracl",
+    "category": "学术论文",
+    "version": "0.8.1",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\01-学术论文\\tracl"
+  },
+  {
+    "name": "arkheion",
+    "category": "学术论文",
+    "version": "0.1.2",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\01-学术论文\\arkheion"
+  },
+  {
+    "name": "easy-paper",
+    "category": "学术论文",
+    "version": "0.2.2",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\01-学术论文\\easy-paper"
+  },
+  {
+    "name": "jastylest-zh",
+    "category": "学术论文",
+    "version": "0.1.2",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\01-学术论文\\jastylest-zh"
+  },
+  {
+    "name": "modern-nju-thesis",
+    "category": "学位论文",
+    "version": "0.4.1",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\02-学位论文\\modern-nju-thesis"
+  },
+  {
+    "name": "modern-sjtu-thesis",
+    "category": "学位论文",
+    "version": "0.6.2",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\02-学位论文\\modern-sjtu-thesis"
+  },
+  {
+    "name": "modern-sustech-thesis",
+    "category": "学位论文",
+    "version": "0.2.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\02-学位论文\\modern-sustech-thesis"
+  },
+  {
+    "name": "universal-hit-thesis",
+    "category": "学位论文",
+    "version": "0.3.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\02-学位论文\\universal-hit-thesis"
+  },
+  {
+    "name": "uo-tsinghua-thesis",
+    "category": "学位论文",
+    "version": "0.4.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\02-学位论文\\uo-tsinghua-thesis"
+  },
+  {
+    "name": "modern-pku-thesis",
+    "category": "学位论文",
+    "version": "0.2.3",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\02-学位论文\\modern-pku-thesis"
+  },
+  {
+    "name": "cheda-seu-thesis",
+    "category": "学位论文",
+    "version": "0.3.4",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\02-学位论文\\cheda-seu-thesis"
+  },
+  {
+    "name": "modern-ecnu-thesis",
+    "category": "学位论文",
+    "version": "0.3.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\02-学位论文\\modern-ecnu-thesis"
+  },
+  {
+    "name": "modern-xmu-thesis",
+    "category": "学位论文",
+    "version": "0.2.2",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\02-学位论文\\modern-xmu-thesis"
+  },
+  {
+    "name": "modern-sysu-thesis",
+    "category": "学位论文",
+    "version": "0.4.1",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\02-学位论文\\modern-sysu-thesis"
+  },
+  {
+    "name": "modern-uestc-thesis",
+    "category": "学位论文",
+    "version": "1.0.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\02-学位论文\\modern-uestc-thesis"
+  },
+  {
+    "name": "shane-hhu-thesis",
+    "category": "学位论文",
+    "version": "0.6.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\02-学位论文\\shane-hhu-thesis"
+  },
+  {
+    "name": "universal-jlu-thesis",
+    "category": "学位论文",
+    "version": "0.1.7",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\02-学位论文\\universal-jlu-thesis"
+  },
+  {
+    "name": "modern-buaa-thesis",
+    "category": "学位论文",
+    "version": "0.4.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\02-学位论文\\modern-buaa-thesis"
+  },
+  {
+    "name": "inelegant-note",
+    "category": "课程笔记",
+    "version": "0.9.1",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\03-课程笔记\\inelegant-note"
+  },
+  {
+    "name": "chengsi",
+    "category": "课程笔记",
+    "version": "0.1.2",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\03-课程笔记\\chengsi"
+  },
+  {
+    "name": "zhaji",
+    "category": "课程笔记",
+    "version": "0.1.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\03-课程笔记\\zhaji"
+  },
+  {
+    "name": "simple-handout",
+    "category": "课程笔记",
+    "version": "0.2.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\03-课程笔记\\simple-handout"
+  },
+  {
+    "name": "ori",
+    "category": "课程笔记",
+    "version": "0.2.5",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\03-课程笔记\\ori"
+  },
+  {
+    "name": "xyznote",
+    "category": "课程笔记",
+    "version": "0.5.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\03-课程笔记\\xyznote"
+  },
+  {
+    "name": "ilm",
+    "category": "课程笔记",
+    "version": "2.1.1",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\03-课程笔记\\ilm"
+  },
+  {
+    "name": "minimal-note",
+    "category": "课程笔记",
+    "version": "0.10.1",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\03-课程笔记\\minimal-note"
+  },
+  {
+    "name": "mousse-notes",
+    "category": "课程笔记",
+    "version": "2.0.1",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\03-课程笔记\\mousse-notes"
+  },
+  {
+    "name": "lambda-notes",
+    "category": "课程笔记",
+    "version": "0.1.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\03-课程笔记\\lambda-notes"
+  },
+  {
+    "name": "dvdtyp",
+    "category": "课程笔记",
+    "version": "1.0.1",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\03-课程笔记\\dvdtyp"
+  },
+  {
+    "name": "obelisk",
+    "category": "课程笔记",
+    "version": "0.2.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\03-课程笔记\\obelisk"
+  },
+  {
+    "name": "touying-quick",
+    "category": "幻灯片",
+    "version": "0.5.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\04-幻灯片\\touying-quick"
+  },
+  {
+    "name": "touying-aqua",
+    "category": "幻灯片",
+    "version": "0.8.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\04-幻灯片\\touying-aqua"
+  },
+  {
+    "name": "metropolyst",
+    "category": "幻灯片",
+    "version": "0.1.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\04-幻灯片\\metropolyst"
+  },
+  {
+    "name": "touying-simpl-sjtu",
+    "category": "幻灯片",
+    "version": "0.1.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\04-幻灯片\\touying-simpl-sjtu"
+  },
+  {
+    "name": "modern-sysu-touying",
+    "category": "幻灯片",
+    "version": "0.1.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\04-幻灯片\\modern-sysu-touying"
+  },
+  {
+    "name": "shuimu-touying",
+    "category": "幻灯片",
+    "version": "0.5.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\04-幻灯片\\shuimu-touying"
+  },
+  {
+    "name": "sdu-touying-simpl",
+    "category": "幻灯片",
+    "version": "1.1.0",
+    "status": "ok",
+    "bytes": 1158219,
+    "path": "D:\\studynotes\\模板\\Typst\\04-幻灯片\\sdu-touying-simpl"
+  },
+  {
+    "name": "minimal-presentation",
+    "category": "幻灯片",
+    "version": "0.7.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\04-幻灯片\\minimal-presentation"
+  },
+  {
+    "name": "diatypst",
+    "category": "幻灯片",
+    "version": "0.9.3",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\04-幻灯片\\diatypst"
+  },
+  {
+    "name": "typslides",
+    "category": "幻灯片",
+    "version": "1.3.4",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\04-幻灯片\\typslides"
+  },
+  {
+    "name": "modern-cv",
+    "category": "简历 CV",
+    "version": "0.10.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\05-简历CV\\modern-cv"
+  },
+  {
+    "name": "brilliant-cv",
+    "category": "简历 CV",
+    "version": "4.1.1",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\05-简历CV\\brilliant-cv"
+  },
+  {
+    "name": "basic-resume",
+    "category": "简历 CV",
+    "version": "0.2.9",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\05-简历CV\\basic-resume"
+  },
+  {
+    "name": "ats-friendly-resume",
+    "category": "简历 CV",
+    "version": "0.1.1",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\05-简历CV\\ats-friendly-resume"
+  },
+  {
+    "name": "neat-cv",
+    "category": "简历 CV",
+    "version": "1.2.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\05-简历CV\\neat-cv"
+  },
+  {
+    "name": "modern-acad-cv",
+    "category": "简历 CV",
+    "version": "0.1.5",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\05-简历CV\\modern-acad-cv"
+  },
+  {
+    "name": "academicv",
+    "category": "简历 CV",
+    "version": "1.1.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\05-简历CV\\academicv"
+  },
+  {
+    "name": "golixp-resume-zh-cn",
+    "category": "简历 CV",
+    "version": "0.1.2",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\05-简历CV\\golixp-resume-zh-cn"
+  },
+  {
+    "name": "habaneraa-one-page-resume-zh",
+    "category": "简历 CV",
+    "version": "0.1.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\05-简历CV\\habaneraa-one-page-resume-zh"
+  },
+  {
+    "name": "bone-resume",
+    "category": "简历 CV",
+    "version": "0.3.1",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\05-简历CV\\bone-resume"
+  },
+  {
+    "name": "peace-of-posters",
+    "category": "学术海报",
+    "version": "0.6.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\06-海报\\peace-of-posters"
+  },
+  {
+    "name": "placard",
+    "category": "学术海报",
+    "version": "0.1.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\06-海报\\placard"
+  },
+  {
+    "name": "pollux",
+    "category": "学术海报",
+    "version": "0.1.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\06-海报\\pollux"
+  },
+  {
+    "name": "pasquino",
+    "category": "学术海报",
+    "version": "0.1.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\06-海报\\pasquino"
+  },
+  {
+    "name": "simple-research-poster",
+    "category": "学术海报",
+    "version": "0.2.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\06-海报\\simple-research-poster"
+  },
+  {
+    "name": "isc-hei-poster",
+    "category": "学术海报",
+    "version": "0.8.1",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\06-海报\\isc-hei-poster"
+  },
+  {
+    "name": "bookly",
+    "category": "书籍与长文",
+    "version": "5.2.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\07-书籍与长文\\bookly"
+  },
+  {
+    "name": "orange-book",
+    "category": "书籍与长文",
+    "version": "0.7.1",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\07-书籍与长文\\orange-book"
+  },
+  {
+    "name": "min-book",
+    "category": "书籍与长文",
+    "version": "1.5.1",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\07-书籍与长文\\min-book"
+  },
+  {
+    "name": "latexy-book",
+    "category": "书籍与长文",
+    "version": "0.0.2",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\07-书籍与长文\\latexy-book"
+  },
+  {
+    "name": "gbt9704-gongwen",
+    "category": "公文与书信",
+    "version": "0.2.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\08-公文与书信\\gbt9704-gongwen"
+  },
+  {
+    "name": "letter-pro",
+    "category": "公文与书信",
+    "version": "3.0.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\08-公文与书信\\letter-pro"
+  },
+  {
+    "name": "letterloom",
+    "category": "公文与书信",
+    "version": "3.0.2",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\08-公文与书信\\letterloom"
+  },
+  {
+    "name": "basic-academic-letter",
+    "category": "公文与书信",
+    "version": "0.2.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\08-公文与书信\\basic-academic-letter"
+  },
+  {
+    "name": "ezexam",
+    "category": "试卷、作业与报告",
+    "version": "0.3.1",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\09-试卷作业与报告\\ezexam"
+  },
+  {
+    "name": "examora",
+    "category": "试卷、作业与报告",
+    "version": "0.2.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\09-试卷作业与报告\\examora"
+  },
+  {
+    "name": "g-exam",
+    "category": "试卷、作业与报告",
+    "version": "0.4.5",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\09-试卷作业与报告\\g-exam"
+  },
+  {
+    "name": "adaptable-pset",
+    "category": "试卷、作业与报告",
+    "version": "0.2.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\09-试卷作业与报告\\adaptable-pset"
+  },
+  {
+    "name": "grape-suite",
+    "category": "试卷、作业与报告",
+    "version": "4.0.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\09-试卷作业与报告\\grape-suite"
+  },
+  {
+    "name": "meppp",
+    "category": "试卷、作业与报告",
+    "version": "0.2.3",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\09-试卷作业与报告\\meppp"
+  },
+  {
+    "name": "cumcm-muban",
+    "category": "试卷、作业与报告",
+    "version": "0.4.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\09-试卷作业与报告\\cumcm-muban"
+  },
+  {
+    "name": "modern-sjtu-report",
+    "category": "试卷、作业与报告",
+    "version": "0.2.0",
+    "status": "existing",
+    "path": "D:\\studynotes\\模板\\Typst\\09-试卷作业与报告\\modern-sjtu-report"
+  }
+]

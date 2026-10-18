@@ -1,0 +1,482 @@
+[
+  {
+    "name": "charged-ieee",
+    "category": "01-学术论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "faithful-acmart",
+    "category": "01-学术论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "fine-lncs",
+    "category": "01-学术论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "elsevier-replica",
+    "category": "01-学术论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "stellar-springer-nature",
+    "category": "01-学术论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "blind-cvpr",
+    "category": "01-学术论文",
+    "in_template": true,
+    "from_root": false
+  },
+  {
+    "name": "bloated-neurips",
+    "category": "01-学术论文",
+    "in_template": true,
+    "from_root": false
+  },
+  {
+    "name": "lucky-icml",
+    "category": "01-学术论文",
+    "in_template": false,
+    "from_root": true
+  },
+  {
+    "name": "tracl",
+    "category": "01-学术论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "arkheion",
+    "category": "01-学术论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "easy-paper",
+    "category": "01-学术论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "jastylest-zh",
+    "category": "01-学术论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "modern-nju-thesis",
+    "category": "02-学位论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "modern-sjtu-thesis",
+    "category": "02-学位论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "modern-sustech-thesis",
+    "category": "02-学位论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "universal-hit-thesis",
+    "category": "02-学位论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "uo-tsinghua-thesis",
+    "category": "02-学位论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "modern-pku-thesis",
+    "category": "02-学位论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "cheda-seu-thesis",
+    "category": "02-学位论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "modern-ecnu-thesis",
+    "category": "02-学位论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "modern-xmu-thesis",
+    "category": "02-学位论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "modern-sysu-thesis",
+    "category": "02-学位论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "modern-uestc-thesis",
+    "category": "02-学位论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "shane-hhu-thesis",
+    "category": "02-学位论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "universal-jlu-thesis",
+    "category": "02-学位论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "modern-buaa-thesis",
+    "category": "02-学位论文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "inelegant-note",
+    "category": "03-课程笔记",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "chengsi",
+    "category": "03-课程笔记",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "zhaji",
+    "category": "03-课程笔记",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "simple-handout",
+    "category": "03-课程笔记",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "ori",
+    "category": "03-课程笔记",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "xyznote",
+    "category": "03-课程笔记",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "ilm",
+    "category": "03-课程笔记",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "minimal-note",
+    "category": "03-课程笔记",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "mousse-notes",
+    "category": "03-课程笔记",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "lambda-notes",
+    "category": "03-课程笔记",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "dvdtyp",
+    "category": "03-课程笔记",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "obelisk",
+    "category": "03-课程笔记",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "touying-quick",
+    "category": "04-幻灯片",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "touying-aqua",
+    "category": "04-幻灯片",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "metropolyst",
+    "category": "04-幻灯片",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "touying-simpl-sjtu",
+    "category": "04-幻灯片",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "modern-sysu-touying",
+    "category": "04-幻灯片",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "shuimu-touying",
+    "category": "04-幻灯片",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "sdu-touying-simpl",
+    "category": "04-幻灯片",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "minimal-presentation",
+    "category": "04-幻灯片",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "diatypst",
+    "category": "04-幻灯片",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "typslides",
+    "category": "04-幻灯片",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "modern-cv",
+    "category": "05-简历CV",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "brilliant-cv",
+    "category": "05-简历CV",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "basic-resume",
+    "category": "05-简历CV",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "ats-friendly-resume",
+    "category": "05-简历CV",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "neat-cv",
+    "category": "05-简历CV",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "modern-acad-cv",
+    "category": "05-简历CV",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "academicv",
+    "category": "05-简历CV",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "golixp-resume-zh-cn",
+    "category": "05-简历CV",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "habaneraa-one-page-resume-zh",
+    "category": "05-简历CV",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "bone-resume",
+    "category": "05-简历CV",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "peace-of-posters",
+    "category": "06-海报",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "placard",
+    "category": "06-海报",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "pollux",
+    "category": "06-海报",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "pasquino",
+    "category": "06-海报",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "simple-research-poster",
+    "category": "06-海报",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "isc-hei-poster",
+    "category": "06-海报",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "bookly",
+    "category": "07-书籍与长文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "orange-book",
+    "category": "07-书籍与长文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "min-book",
+    "category": "07-书籍与长文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "latexy-book",
+    "category": "07-书籍与长文",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "gbt9704-gongwen",
+    "category": "08-公文与书信",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "letter-pro",
+    "category": "08-公文与书信",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "letterloom",
+    "category": "08-公文与书信",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "basic-academic-letter",
+    "category": "08-公文与书信",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "ezexam",
+    "category": "09-试卷作业与报告",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "examora",
+    "category": "09-试卷作业与报告",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "g-exam",
+    "category": "09-试卷作业与报告",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "adaptable-pset",
+    "category": "09-试卷作业与报告",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "grape-suite",
+    "category": "09-试卷作业与报告",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "meppp",
+    "category": "09-试卷作业与报告",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "cumcm-muban",
+    "category": "09-试卷作业与报告",
+    "in_template": true,
+    "from_root": true
+  },
+  {
+    "name": "modern-sjtu-report",
+    "category": "09-试卷作业与报告",
+    "in_template": true,
+    "from_root": true
+  }
+]
